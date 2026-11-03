@@ -1,44 +1,43 @@
-<div align="center">
 
-# Lekh Raj
+<p align="center">
+  <img src="01-hero.png" width="100%" alt="Lekh Raj — Research scholar and developer building practical tools that make knowledge useful">
+</p>
 
-### Building practical tools for research and the web
+<p align="center">
+  <img src="02-about.png" width="100%" alt="About Lekh Raj — Academic research, web development and practical digital tools">
+</p>
 
-WordPress tools · Browser-based utilities · Digital products
+<p align="center">
+  <img src="03-toolkit.png" width="100%" alt="Toolkit — Web development, academic research and digital products">
+</p>
 
-[ResearchUtility](https://researchutility.com) &nbsp;·&nbsp; [PDFToolkits](https://pdftoolkits.com) &nbsp;·&nbsp; [The Pixel Pouch](https://thepixelpouch.com)
 
-</div>
+<p align="center">
+  <a href="https://github.com/mr-lekhraj/mini-game-arcade">
+    <img src="04-projects-1.png" width="100%" alt="Mini Game Arcade">
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://researchutility.com">
+    <img src="05-projects-2.png" width="100%" alt="ResearchUtility">
+  </a>
+</p>
 
-## About me
+<p align="center">
+  <a href="https://github.com/mr-lekhraj/wordpress-ai-caretaker">
+    <img src="06-projects-3.png" width="100%" alt="WordPress AI Caretaker">
+  </a>
+</p>
 
-I create web tools for researchers, website owners, and digital creators. My work brings together academic research, WordPress development, and practical utilities that make everyday tasks easier.
+<p align="center">
+  <img src="07-contact.png" width="100%" alt="Connect with Lekh Raj">
+</p>
 
-I focus on clear interfaces, useful features, and straightforward setup.
 
-## Projects & websites
-
-| Project | Focus | Explore |
-| --- | --- | --- |
-| **ResearchUtility** | Research tools and resources, including DOI lookup and data utilities | [Visit website](https://researchutility.com) |
-| **PDFToolkits** | PDF tools for tasks such as merging, cropping, resizing pages, and adding page numbers | [Visit website](https://pdftoolkits.com) |
-| **The Pixel Pouch** | Digital products and creative resources | [Visit website](https://thepixelpouch.com) |
-
-## Current focus
-
-- Developing WordPress plugins and tools with reusable shortcodes.
-- Building browser-based utilities for everyday document workflows.
-- Exploring ways to bring AI-generated website designs into WordPress.
-- Creating accessible resources for academic research.
-
-## Technologies I work with
-
-**WordPress · PHP · JavaScript · HTML · CSS**
-
-## Connect
-
-Explore my tools and research resources at **[researchutility.com](https://researchutility.com)**.
-
-For public projects, please use the relevant repository's issues to report bugs or suggest improvements.
+<p align="center">
+  <a href="https://github.com/mr-lekhraj">GitHub</a> ·
+  <a href="https://researchutility.com">ResearchUtility</a> ·
+  <a href="https://thepixelpouch.com">The Pixel Pouch</a> ·
+  <a href="https://pdftoolkits.com">PDFToolkits</a>
+</p>
