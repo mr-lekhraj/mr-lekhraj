@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="460" viewBox="0 0 1536 460">
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#062f25"/><stop offset="1" stop-color="#0b3b30"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#e8cf96"/><stop offset="1" stop-color="#f8e8bc"/></linearGradient>
+</defs>
+<rect width="1536" height="460" fill="url(#background)"/>
+
+<text x="768" y="72" text-anchor="middle" fill="#d8d2c3" font-family="Arial,sans-serif" font-size="20" letter-spacing="8">04  /  SAY HELLO</text>
+<text x="768" y="190" text-anchor="middle" fill="#f7f3e9" font-family="Georgia,serif" font-size="76" font-weight="bold">Ideas are better</text>
+<text x="768" y="274" text-anchor="middle" fill="url(#accent)" font-family="Georgia,serif" font-size="76" font-style="italic">when shared.</text>
+<text x="768" y="340" text-anchor="middle" fill="#f1eee6" font-family="Arial,sans-serif" font-size="25">Explore my research, tools, and open-source projects.</text>
+<line x1="210" y1="382" x2="1326" y2="382" stroke="#e8e2d3" stroke-opacity=".75" stroke-width="1.5"/>
+<text x="768" y="425" text-anchor="middle" fill="#f5f0e6" font-family="Arial,sans-serif" font-size="22">GitHub   ·   ResearchUtility   ·   The Pixel Pouch   ·   PDFToolkits</text>
+
+</svg>
