@@ -52,72 +52,124 @@ Research utilities · PDF tools · Browser games · eBooks · Templates · Creat
 
 ## 🏆 Featured Missions
 
+<div align="center">
+
+*Selected projects where research, creativity and technology come together.*
+
+</div>
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#102f35">
 
-### 🧪 [ResearchUtility](https://researchutility.com)
+<h3>🧪 <a href="https://researchutility.com">ResearchUtility</a></h3>
 
-A research-focused platform offering academic, statistical, biology and research methodology tools.
+**Your research, made easier.**
 
-**Focus:** Research calculators · Biology tools · Data analysis · Academic workflows
+A growing platform of academic, statistical, biology and research methodology tools for students and researchers.
 
-[Explore ResearchUtility →](https://researchutility.com)
+<p>
+<img src="https://img.shields.io/badge/RESEARCH-SCIENCE-1f7667?style=flat-square" alt="Research and science"/>
+<img src="https://img.shields.io/badge/TOOLS-ACADEMIC-c5a36a?style=flat-square" alt="Academic tools"/>
+</p>
+
+**Explore:** Research calculators · Biology tools · Data analysis
+
+<a href="https://researchutility.com"><b>EXPLORE PROJECT →</b></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#182b43">
 
-### 🕹️ [Mini Game Arcade](https://mini-game-arcade.vercel.app)
+<h3>🕹️ <a href="https://mini-game-arcade.vercel.app">Mini Game Arcade</a></h3>
 
-A browser-based collection of lightweight mini-games built for accessible, quick entertainment.
+**Small games. Big fun.**
 
-**Focus:** JavaScript · Front-end development · Interactive experiences
+A browser-based collection of lightweight mini-games built for quick, accessible entertainment.
 
-[Play online →](https://mini-game-arcade.vercel.app)
+<p>
+<img src="https://img.shields.io/badge/WEB-JAVASCRIPT-286a8a?style=flat-square" alt="Web development"/>
+<img src="https://img.shields.io/badge/PLAY-INTERACTIVE-c56b45?style=flat-square" alt="Interactive games"/>
+</p>
+
+**Explore:** Browser games · Front-end development · UI interaction
+
+<a href="https://mini-game-arcade.vercel.app"><b>PLAY ONLINE →</b></a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#342b20">
 
-### 🛍️ [The Pixel Pouch](https://thepixelpouch.com)
+<h3>🛍️ <a href="https://thepixelpouch.com">The Pixel Pouch</a></h3>
+
+**Digital resources for creative minds.**
 
 A digital product marketplace for eBooks, templates, learning resources and creator bundles.
 
-**Focus:** Digital publishing · Product design · Online commerce
+<p>
+<img src="https://img.shields.io/badge/DIGITAL-PRODUCTS-bb8745?style=flat-square" alt="Digital products"/>
+<img src="https://img.shields.io/badge/CREATOR-RESOURCES-8c6c43?style=flat-square" alt="Creator resources"/>
+</p>
 
-[Visit the marketplace →](https://thepixelpouch.com)
+**Explore:** eBooks · Templates · Learning bundles
+
+<a href="https://thepixelpouch.com"><b>VISIT MARKETPLACE →</b></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#30252b">
 
-### 📄 [PDFToolkits](https://pdftoolkits.com)
+<h3>📄 <a href="https://pdftoolkits.com">PDFToolkits</a></h3>
 
-Online document utilities for merging, splitting, compressing and rotating PDF files.
+**Everyday PDF tasks, simplified.**
 
-**Focus:** Document workflows · WordPress · Utility tools
+A collection of online document utilities for common PDF workflows.
 
-[Open PDFToolkits →](https://pdftoolkits.com)
+<p>
+<img src="https://img.shields.io/badge/UTILITY-PDF-bb554b?style=flat-square" alt="PDF utilities"/>
+<img src="https://img.shields.io/badge/TOOLS-DOCUMENTS-855a68?style=flat-square" alt="Document tools"/>
+</p>
+
+**Explore:** Merge · Split · Compress · Rotate PDF
+
+<a href="https://pdftoolkits.com"><b>OPEN PDFTOOLKITS →</b></a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#202d3d">
 
-### 🧩 [WordPress AI Caretaker](https://github.com/mr-lekhraj/wordpress-ai-caretaker)
+<h3>🧩 <a href="https://github.com/mr-lekhraj/wordpress-ai-caretaker">WordPress AI Caretaker</a></h3>
 
-An AI-assisted WordPress project exploring smarter website maintenance and workflows.
+**Smarter WordPress workflows.**
 
-[View repository →](https://github.com/mr-lekhraj/wordpress-ai-caretaker)
+An AI-assisted project exploring practical ways to support WordPress website maintenance and operations.
+
+<p>
+<img src="https://img.shields.io/badge/WORDPRESS-PLUGIN-426b91?style=flat-square" alt="WordPress"/>
+<img src="https://img.shields.io/badge/AI-AUTOMATION-8066a8?style=flat-square" alt="AI and automation"/>
+</p>
+
+**Explore:** WordPress · AI-assisted workflows · Site operations
+
+<a href="https://github.com/mr-lekhraj/wordpress-ai-caretaker"><b>VIEW REPOSITORY →</b></a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#25352d">
 
-### 📚 [Academic Research Success](https://github.com/mr-lekhraj/academic-research-success)
+<h3>📚 <a href="https://github.com/mr-lekhraj/academic-research-success">Academic Research Success</a></h3>
 
-A project dedicated to academic research productivity, learning resources and researcher support.
+**Support for the research journey.**
 
-[View repository →](https://github.com/mr-lekhraj/academic-research-success)
+A project focused on academic research productivity, learning resources and researcher support.
+
+<p>
+<img src="https://img.shields.io/badge/ACADEMIC-RESEARCH-4d866c?style=flat-square" alt="Academic research"/>
+<img src="https://img.shields.io/badge/LEARNING-RESOURCES-b18d53?style=flat-square" alt="Learning resources"/>
+</p>
+
+**Explore:** Research productivity · Learning · Academic resources
+
+<a href="https://github.com/mr-lekhraj/academic-research-success"><b>VIEW REPOSITORY →</b></a>
 
 </td>
 </tr>
