@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-label="Researcher identity and project dashboard">
+<rect width="1200" height="310" rx="24" fill="#102f2b" stroke="#c7a86c" stroke-width="2"/>
+<rect x="28" y="28" width="520" height="254" rx="18" fill="#173f37" stroke="#638f7d"/>
+<text x="58" y="72" fill="#d9bd80" font-family="Arial" font-size="16" letter-spacing="3">RESEARCHER PROFILE</text>
+<text x="58" y="119" fill="#fff5df" font-family="Arial" font-size="32" font-weight="bold">LEKH RAJ</text>
+<text x="58" y="153" fill="#b9d9cc" font-family="Arial" font-size="18">Ph.D. Research Scholar • Zoology</text>
+<path d="M58 178h420" stroke="#c7a86c" stroke-width="2"/>
+<text x="58" y="211" fill="#e9dfc5" font-family="Arial" font-size="15">Research interests</text>
+<text x="58" y="238" fill="#b9d9cc" font-family="Arial" font-size="15">Insect physiology · Genotoxicity · Neuroendocrinology</text>
+<g transform="translate(590 40)" font-family="Arial">
+<text x="0" y="30" fill="#d9bd80" font-size="16" letter-spacing="3">BUILDING IN PUBLIC</text>
+<g transform="translate(0 58)">
+<rect width="260" height="72" rx="12" fill="#17483d" stroke="#638f7d"/><text x="18" y="30" fill="#fff5df" font-size="19" font-weight="bold">ResearchUtility</text><text x="18" y="53" fill="#b9d9cc" font-size="13">Tools for researchers</text>
+<rect x="278" width="260" height="72" rx="12" fill="#17483d" stroke="#638f7d"/><text x="296" y="30" fill="#fff5df" font-size="19" font-weight="bold">The Pixel Pouch</text><text x="296" y="53" fill="#b9d9cc" font-size="13">Digital products</text>
+<rect y="88" width="260" height="72" rx="12" fill="#17483d" stroke="#638f7d"/><text x="18" y="118" fill="#fff5df" font-size="19" font-weight="bold">PDFToolkits</text><text x="18" y="141" fill="#b9d9cc" font-size="13">Document utilities</text>
+<rect x="278" y="88" width="260" height="72" rx="12" fill="#17483d" stroke="#638f7d"/><text x="296" y="118" fill="#fff5df" font-size="19" font-weight="bold">Mini Game Arcade</text><text x="296" y="141" fill="#b9d9cc" font-size="13">Browser-based games</text>
+</g></g></svg>
