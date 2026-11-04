@@ -10,24 +10,32 @@
   <img src="03-toolkit.png" width="100%" alt="Toolkit — Web development, academic research and digital products">
 </p>
 
-<!-- PROJECT 01: MINI GAME ARCADE -->
+<!-- FEATURED WORK 01: MINI GAME ARCADE -->
 <p align="center">
   <a href="https://github.com/mr-lekhraj/mini-game-arcade">
     <img src="04-projects-1.png" width="100%" alt="Mini Game Arcade">
   </a>
 </p>
 
-<!-- PROJECT 02: RESEARCHUTILITY -->
+<!-- FEATURED WORK 02: RESEARCHUTILITY -->
 <p align="center">
   <a href="https://researchutility.com">
     <img src="05-projects-2.png" width="100%" alt="ResearchUtility — Academic research and scientific tools">
   </a>
 </p>
 
-<!-- PROJECT 03: WORDPRESS AI CARETAKER -->
+<!-- FEATURED WORK 03: WORDPRESS AI CARETAKER -->
 <p align="center">
   <a href="https://github.com/mr-lekhraj/wordpress-ai-caretaker">
     <img src="06-projects-3.png" width="100%" alt="WordPress AI Caretaker — AI-assisted WordPress maintenance">
+  </a>
+</p>
+
+<!-- FEATURED WORK 04: THE PIXEL POUCH -->
+<p align="center">
+  <a href="https://thepixelpouch.com">
+    <strong>The Pixel Pouch</strong><br>
+    Digital products and creative resources
   </a>
 </p>
 
