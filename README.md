@@ -110,10 +110,20 @@ I'm **Lekh Raj**, a Zoology research scholar with a strong interest in research 
   <img src="https://streak-stats.demolab.com?user=mr-lekhraj&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
 </div>
 
+## 🌆 3D Contribution City
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Animated 3D GitHub contribution calendar"/>
+</div>
+
 ## 🐍 Contribution Journey
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mr-lekhraj/mr-lekhraj/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/github-contribution-grid-snake.svg"/>
+    <img src="./profile-3d-contrib/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake"/>
+  </picture>
 </div>
 
 ## 🌐 Find Me Around the Web
