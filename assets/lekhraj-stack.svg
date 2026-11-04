@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Research and technology toolkit">
+<rect width="1200" height="260" rx="24" fill="#0b211f" stroke="#c7a86c" stroke-width="2"/>
+<text x="52" y="48" fill="#d9bd80" font-family="Arial" font-size="17" letter-spacing="4">THE RESEARCH & BUILD TOOLKIT</text>
+<g font-family="Arial" text-anchor="middle">
+<g transform="translate(150 125)"><circle r="35" fill="#17483d" stroke="#7bb9a2" stroke-width="2"/><path d="M-14-15h28v30h-28zM-8-7h16M-8 0h16M-8 7h10" stroke="#e7d9b5" fill="none" stroke-width="2"/><text y="62" fill="#f5edda" font-size="16">ZOOLOGY</text></g>
+<g transform="translate(330 125)"><circle r="35" fill="#17483d" stroke="#7bb9a2" stroke-width="2"/><path d="M-16 14l12-28 9 16 11-21" fill="none" stroke="#e7d9b5" stroke-width="3"/><text y="62" fill="#f5edda" font-size="16">DATA ANALYSIS</text></g>
+<g transform="translate(510 125)"><circle r="35" fill="#17483d" stroke="#7bb9a2" stroke-width="2"/><path d="M-14-15h28v30h-28zM-8-7h16M-8 0h16M-8 7h10" stroke="#e7d9b5" fill="none" stroke-width="2"/><text y="62" fill="#f5edda" font-size="16">PYTHON</text></g>
+<g transform="translate(690 125)"><circle r="35" fill="#17483d" stroke="#7bb9a2" stroke-width="2"/><path d="M-17-10h34M-17 0h34M-17 10h34M-7-18v36M7-18v36" stroke="#e7d9b5" stroke-width="2"/><text y="62" fill="#f5edda" font-size="16">PHP & JS</text></g>
+<g transform="translate(870 125)"><circle r="35" fill="#17483d" stroke="#7bb9a2" stroke-width="2"/><path d="M-18 0h36M0-18v36M-13-13l26 26M13-13l-26 26" stroke="#e7d9b5" stroke-width="2"/><text y="62" fill="#f5edda" font-size="16">WORDPRESS</text></g>
+<g transform="translate(1050 125)"><circle r="35" fill="#17483d" stroke="#7bb9a2" stroke-width="2"/><path d="M-15-12h30v24h-30zM-9-5l7 5-7 5M2 5h8" stroke="#e7d9b5" fill="none" stroke-width="2"/><text y="62" fill="#f5edda" font-size="16">GIT & TOOLS</text></g>
+</g>
+<text x="600" y="232" fill="#a9cfc0" text-anchor="middle" font-family="Arial" font-size="14">Scientific thinking • Practical engineering • Continuous learning</text>
+</svg>
