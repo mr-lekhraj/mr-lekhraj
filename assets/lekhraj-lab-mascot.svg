@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="220" viewBox="0 0 360 220" role="img" aria-label="Animated scientist mascot at a research desk">
+<defs><linearGradient id="coat" x2="1" y2="1"><stop stop-color="#fffdf4"/><stop offset="1" stop-color="#d9e9e2"/></linearGradient></defs>
+<rect x="3" y="3" width="354" height="214" rx="24" fill="#0d302b" stroke="#c7a86c" stroke-width="2"/>
+<circle cx="180" cy="86" r="43" fill="#c98f68"/><path d="M139 83q0-53 43-53 42 0 48 43-20-14-39-12-27 1-52 22" fill="#202b2b"/>
+<path d="M155 89q9 8 18 0m15 0q9 8 18 0" fill="none" stroke="#30251e" stroke-width="3" stroke-linecap="round"/>
+<path d="M171 111q10 8 20 0" fill="none" stroke="#7c3e39" stroke-width="3" stroke-linecap="round"/>
+<path d="M118 202q4-66 62-66t62 66" fill="url(#coat)" stroke="#b5d0c4" stroke-width="3"/>
+<path d="M179 139l-10 38 12 12 13-12-10-38" fill="#c7a86c"/>
+<path d="M106 190h148" stroke="#c7a86c" stroke-width="4" stroke-linecap="round"/>
+<g transform="translate(35 116)"><path d="M0 0h31l-5 50H5z" fill="#b7e2d5" fill-opacity=".25" stroke="#9ed4c1" stroke-width="2"/><path d="M5 29h21" stroke="#7ec6ad" stroke-width="7"/></g>
+<g transform="translate(285 105)" fill="none" stroke="#d8c18d" stroke-width="3"><path d="M12 0v24l-10 27h38L28 24V0"/><path d="M7 38h28"/></g>
+<g fill="#e5c98b"><circle cx="68" cy="42" r="4"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></circle><circle cx="295" cy="50" r="4"><animate attributeName="opacity" values="1;.2;1" dur="2.8s" repeatCount="indefinite"/></circle></g>
+</svg>
