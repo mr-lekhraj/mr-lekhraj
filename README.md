@@ -34,8 +34,7 @@
 <!-- FEATURED WORK 04: THE PIXEL POUCH -->
 <p align="center">
   <a href="https://thepixelpouch.com">
-    <strong>The Pixel Pouch</strong><br>
-    Digital products and creative resources
+    <img src="08-projects-4.svg" width="100%" alt="The Pixel Pouch — Digital products, templates, eBooks and creator resources">
   </a>
 </p>
 
